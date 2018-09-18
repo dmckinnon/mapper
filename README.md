@@ -26,4 +26,5 @@ https://github.com/gtjennings1/UPDuino-OV7670-Camera
 https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards
 
 
-
+https://arxiv.org/pdf/1703.00154.pdf
++ links from salim
